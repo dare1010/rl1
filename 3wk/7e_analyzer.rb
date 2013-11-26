@@ -1,4 +1,4 @@
-#desc http://pastebin.com/VetipxWc
+# http://pastebin.com/VetipxWc
 @lines = 0
 text = ""
 

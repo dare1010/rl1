@@ -1,4 +1,4 @@
-#http://pastebin.com/d1NYHhwb
+# http://pastebin.com/d1NYHhwb
 print "Enter a year: "
 def leap_year?(year = gets.to_i)
   year % 400 == 0 || year % 4 == 0 && year % 100 != 0

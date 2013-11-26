@@ -1,4 +1,4 @@
-#http://pastebin.com/tSzvcDC0
+# http://pastebin.com/tSzvcDC0
 class Dog
   attr_reader :name, :tricks
 

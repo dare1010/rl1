@@ -1,4 +1,4 @@
-#http://pastebin.com/YP0xczKA
+# http://pastebin.com/YP0xczKA
 s = "Welcome to the forum.\nHere you can learn Ruby.\nAlong with other members.\n"
 lines = s.split("\n")
 

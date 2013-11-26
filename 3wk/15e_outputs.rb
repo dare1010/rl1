@@ -1,4 +1,4 @@
-#http://pastebin.com/yrhkS3ca
+# http://pastebin.com/yrhkS3ca
 for i, j in [[1, 2], [3, 4], [5, 6]]
   p [i, j]
 end

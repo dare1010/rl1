@@ -1,4 +1,4 @@
-#http://pastebin.com/Cm8w6qw9
+# http://pastebin.com/Cm8w6qw9
 def how_many_minutes(years)
   minutes_in_hour = 60
   hours_in_day = 24

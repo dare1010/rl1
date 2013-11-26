@@ -1,4 +1,4 @@
-#http://pastebin.com/L1g1n1pZ
+# http://pastebin.com/L1g1n1pZ
 def mtdarry
   10.times do |num|
     puts num

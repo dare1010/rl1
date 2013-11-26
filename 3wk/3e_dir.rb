@@ -1,4 +1,4 @@
-#http://pastebin.com/4b2mXTaq
+# http://pastebin.com/4b2mXTaq
 
 p Dir.pwd # Display your current working directory.
 Dir.mkdir 'tmp' # Create a new directory tmp under your working directory.
