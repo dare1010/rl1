@@ -1,4 +1,4 @@
-#exercise http://pastebin.com/CU8rJWX0
+# http://pastebin.com/CU8rJWX0
 
 (1..100).each do |number|
   if number % 3 == 0 && number % 5 == 0

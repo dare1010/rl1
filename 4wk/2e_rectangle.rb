@@ -1,4 +1,4 @@
-#http://pastebin.com/Ay6cP8iP
+# http://pastebin.com/Ay6cP8iP
 class Rectangle
   def initialize(length, width)
     @length = length

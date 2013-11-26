@@ -1,4 +1,4 @@
-#Exercise number http://pastebin.com/er60X40k
+# http://pastebin.com/er60X40k
 
 print 'Enter a string: '
 input = gets.chomp

@@ -1,4 +1,4 @@
-#http://pastebin.com/1mnRrJyW
+# http://pastebin.com/1mnRrJyW
 def method()
   a = 50
   puts a

@@ -1,4 +1,4 @@
-#http://pastebin.com/TRQLFrNM
+# http://pastebin.com/TRQLFrNM
 a = ["Magazine", "Sunday", "Jump"]
 
 #Answers:
